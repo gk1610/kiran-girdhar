@@ -586,3 +586,10 @@ footer p {
   text-align: center;
 }
 
+.photo-caption {
+  font-size: 1.25rem;      /* bigger text */
+  font-weight: 700;        /* bold */
+  color: #0f2a44;          /* matches your site blue */
+  margin-bottom: 1rem;
+  text-align: center;
+}
